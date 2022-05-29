@@ -1,19 +1,24 @@
 # deeplearning
 
 	Purpose?
+
 Train CIFAR10 with PyTorch, and upgrade accuracy on CIFAR-10
 
 	Used Model?
+
 MobileNetV2
 
 	Abstract
+
 The aim of this research report is to develop deep neural architecture to obtain high accuracy for CIFAR10 dataset. 
 
 	Prerequisites
+
 Python 3.6+
 PyTorch 1.0+
 
 	Modifications and Results?
+
 1.	Original
 Result? 92.560%
 
